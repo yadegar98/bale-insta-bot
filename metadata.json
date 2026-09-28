@@ -1,0 +1,8 @@
+{
+  "name": "Remix Bale to Instagram Automation Hub",
+  "description": "اتوماسیون هوشمند دریافت ویدیو از پیام‌رسان بله، پردازش کپشن با جمنای و انتشار خودکار در ریلز اینستاگرام",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
